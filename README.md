@@ -17,48 +17,50 @@
  
 ## 如果你是站长但是对前端一窍不通的话可以看看这里
 
-##### 修改页头文字
-修改inde.html文件第八行
+##### 修改页头文字  
+修改inde.html文件第八行  
 ```html
    <title>博客</title>
 ```
 
-##### 修改页头图片
-修改index.html文件第九行的url为图片链接
+##### 修改页头图片  
+修改index.html文件第九行的url为图片链接  
 ```html
     <link rel="icon" type="image/ico" href="url">
 ```
 
 ##### 导航栏位修改
-修改index.html文件25-33行之间的li标签
-href=""内为超链接，标签中间为按钮文字
+修改index.html文件25-33行之间的li标签  
+href=""内为超链接，标签中间为按钮文字  
 ```html
     <li><a href="https://www.yhevis.top/index.php" target="_blank">博客</a></li>
 ```
 
 ##### 网站logo
-修改index.html文件第47行
-src=""内填写logo图片地址
+修改index.html文件第47行  
+src=""内填写logo图片地址  
 ```html
    <img class="logo logo-ig" src="" alt="">
 ```
 
 ##### 关于
 修改index.html62-64行标签内的内容（标签本身勿动）
-
-**语法：**
-<h2>大标题</h2>
-<h3>小标题</h3>
-<p>段落文字</p>
-<a href="链接">超链接</a>
 ```html
     <div class="abtCont">
         <h2>关于我</h2>
     </div>
 ```
+**语法：**
+```html
+<h2>大标题</h2>
+<h3>小标题</h3>
+<p>段落文字</p>
+<a href="链接">超链接</a>
+```
 
-### 另外如果你真的用了且觉得还行的话我希望能添一个友链，谢谢大佬
-** 名字：YH_evIs的技术博客
-** 地址：https://yhevis.top
-** 标志：https://www.yhevis.top/blog.png
-** 介绍：Life is brief, and then you die, you know? ——Steve Jobs
+
+### 另外如果你真的用了且觉得还行的话我希望能添一个友链，谢谢大佬  
+* 名字：YH_evIs的技术博客  
+* 地址：https://yhevis.top  
+* 标志：https://www.yhevis.top/blog.png  
+* 介绍：Life is brief, and then you die, you know? ——Steve Jobs  
