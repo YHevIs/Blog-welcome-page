@@ -1,0 +1,19 @@
+.wrapper td {
+    width: 20px;
+    height: 20px;
+    background: white;
+    border-radius: 50%;
+    border: solid .5px rgb(31, 31, 31);
+}
+
+.wrapper td.td0 {
+    background: #fff;
+}
+
+.wrapper td.td1 {
+    background: #3a3a3a;
+}
+
+.wrapper td.td2 {
+    background: rgb(0, 0, 0);
+}
