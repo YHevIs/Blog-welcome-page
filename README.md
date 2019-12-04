@@ -60,7 +60,7 @@ src=""内填写logo图片地址
 
 
 ### 另外如果你真的用了且觉得还行的话我希望能添一个友链，谢谢大佬  
-* 名字：YH_evIs‘ blog
+* 名字：YH_evIs' blog
 * 地址：https://yhevis.top  
 * 标志：https://www.yhevis.top/blog.png  
 * 介绍：Life is brief, and then you die, you know? ——Steve Jobs  
