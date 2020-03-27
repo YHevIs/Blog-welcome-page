@@ -126,7 +126,7 @@ class Web {
 
     //console
     consoleInit() {
-            console.log("这份前端页面会在github上开源，请扒站大佬手下留情Orz");
+            console.log("这份前端页面会在github上开源，请扒站大佬手下留情Orz：https://github.com/YHevIs/Blog-welcome-page");
         }
         //延时器
     timeAxis(fun, time) {
