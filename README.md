@@ -1,5 +1,5 @@
 # Blog-welcome-page
-博客欢迎页面-迭代1，页面地址:https://yhevis.top
+博客欢迎页面-迭代1，页面地址:https://yhevis.top/zhuye.php
 
 **因博客本身的建站系统为typecho，所以页面也引用的jquery作为开发库，内置的贪吃蛇前端游戏为学生时期开发。**
 
